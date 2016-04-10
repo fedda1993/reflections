@@ -14,10 +14,9 @@ What is the benefit of having a copy of the last known state of the remote store
 
     That way you can have an updated version of the remote if you are going to work offline for a while.
 
-How would you collaborate without using Git or GitHub?  What would be easier,
-and what would be harder?
+How would you collaborate without using Git or GitHub?  What would be easier, and what would be harder?
 
-    Fill in your answer here
+    Git does have a learning curve, and I do have a tendancy to forget to commit.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
