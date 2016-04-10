@@ -16,6 +16,8 @@ What are some situations when branches would be helpful in keeping your history 
 	Branches enables you to work on new features while maintaining a working master branch.
 
 How do the diagrams help you visualize the branch structure?
+	
+	It helps you to see how a commit can be unreachable.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
