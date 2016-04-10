@@ -18,7 +18,6 @@ How would you collaborate without using Git or GitHub?  What would be easier, an
 
     Git does have a learning curve, and I do have a tendancy to forget to commit.
 
-When would you want to make changes in a separate branch rather than directly in
-master?  What benefits does each approach have?
+When would you want to make changes in a separate branch rather than directly in master?  What benefits does each approach have?
 
-    Fill in your answer here
+    The main advantage with having separate branches is that you can start developing new features without affecting others. You can always have a functional master branch.
