@@ -7,8 +7,9 @@ What value do you think it offers?
 		
 	The staging area is different in that it only contains the changes relevant for this commit. This is very useful, because it gives you more control over which changes to commit.
 
-How can you use the staging area to make sure you have one commit per logical
-change?
+How can you use the staging area to make sure you have one commit per logical change?
+
+	By just stating the changes applicable to one logical change.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
